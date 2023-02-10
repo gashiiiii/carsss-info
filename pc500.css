@@ -1,0 +1,24 @@
+img{
+	width: 300px; 
+	height:300px;
+	float: left;
+	margin: 125px 50px 50px 100px;
+	border: 5px solid black;
+}
+h1,h2{
+	margin:150px 0px 0px 0px;
+}
+h1,h2{
+	display: inline-flex;
+}
+img,h1{
+	float: left;
+}
+.search{
+	border: 2px solid black;
+	background-image: url(file:///C:/Users/PC/Desktop/search.jpg);
+	border-image-width: 5px;
+border-image-height:5px;
+
+
+}
